@@ -4,6 +4,7 @@ int main(){
     int x,n=5;
     x=recursiveFactorial(n);
     printf("%d",x);
+    
     return 0;
 }
 
